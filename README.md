@@ -1,2 +1,1 @@
-# resume
-Резюме на позицию Python Backend Developer
+# Резюме на позицию Python Backend Developer
